@@ -11,6 +11,7 @@ const fs=require('fs')
 //The callback function runs when the action is ready 
 fs.readFile('./txt/start.txt','utf-8',(err,data)=>{
     console.log(data);
+    if (err){throw new err}
 })
 
 
