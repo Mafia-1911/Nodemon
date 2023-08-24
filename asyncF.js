@@ -21,6 +21,5 @@ fs.readFile('./txt/start.txt','utf-8',(err,data)=>{ //we get the file name
     })
 })
 
-
 //the first parameter for the callbakc is always error , It works over the data 
     //and stores them on the second argument
