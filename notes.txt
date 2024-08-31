@@ -1,0 +1,2 @@
+You can do the npm init -y to fasten up the starting 
+You can also do the npm init after installing the depencies , It will work just fine 
